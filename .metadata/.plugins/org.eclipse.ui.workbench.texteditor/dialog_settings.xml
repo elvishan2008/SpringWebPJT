@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="org.springframework-version"/>
+		<item key="selection" value="result"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="result"/>
+			<item value="data"/>
+			<item value="DATA"/>
+			<item value="ajax"/>
 			<item value="org.springframework-version"/>
 			<item value="mybatis"/>
 			<item value="springframework"/>
@@ -19,10 +23,6 @@
 			<item value="lombok"/>
 			<item value="spring-test"/>
 			<item value="dependency"/>
-			<item value="maven-compiler-plug"/>
-			<item value="springframework-ver"/>
-			<item value="maven-war"/>
-			<item value="plugin"/>
 		</list>
 		<list key="replacehistory">
 		</list>
